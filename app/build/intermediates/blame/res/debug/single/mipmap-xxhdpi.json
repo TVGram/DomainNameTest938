@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/home/pc7/DomainNameCheckApp/DomainNameTest938/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/home/pc7/DomainNameCheckApp/DomainNameTest938/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
         "merged": "/home/pc7/DomainNameCheckApp/DomainNameTest/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
         "source": "/home/pc7/DomainNameCheckApp/DomainNameTest/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
     }

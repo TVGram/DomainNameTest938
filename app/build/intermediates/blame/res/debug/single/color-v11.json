@@ -1,7 +1,15 @@
 [
     {
+        "merged": "/home/pc7/DomainNameCheckApp/DomainNameTest938/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/pc7/.android/build-cache/b999b8640649fa603d49a90380e8bffbe3ac2ae4/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
         "merged": "/home/pc7/DomainNameCheckApp/DomainNameTest/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
         "source": "/home/pc7/.android/build-cache/b999b8640649fa603d49a90380e8bffbe3ac2ae4/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/home/pc7/DomainNameCheckApp/DomainNameTest938/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/pc7/.android/build-cache/b999b8640649fa603d49a90380e8bffbe3ac2ae4/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
     },
     {
         "merged": "/home/pc7/DomainNameCheckApp/DomainNameTest/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",

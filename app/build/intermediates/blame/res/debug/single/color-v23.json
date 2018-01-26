@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/home/pc7/DomainNameCheckApp/DomainNameTest938/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/pc7/.android/build-cache/b999b8640649fa603d49a90380e8bffbe3ac2ae4/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
         "merged": "/home/pc7/DomainNameCheckApp/DomainNameTest/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
         "source": "/home/pc7/.android/build-cache/b999b8640649fa603d49a90380e8bffbe3ac2ae4/output/res/color-v23/abc_color_highlight_material.xml"
     }

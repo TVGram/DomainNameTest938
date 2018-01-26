@@ -165,6 +165,9 @@ public class WifiStress extends LetvTestCase {
         press_back(2);
     }
 
+
+
+
     @Test
     @CaseName("查动多屏互动")
     public void testScreenInteraction() throws UiObjectNotFoundException, RemoteException {

@@ -2,5 +2,9 @@
     {
         "merged": "/home/pc7/DomainNameCheckApp/DomainNameTest/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
         "source": "/home/pc7/.android/build-cache/ae5782b5813746527e8114198c662c3bcbc83cee/output/res/layout-sw600dp/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/home/pc7/DomainNameCheckApp/DomainNameTest938/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "/home/pc7/.android/build-cache/ae5782b5813746527e8114198c662c3bcbc83cee/output/res/layout-sw600dp/design_layout_snackbar.xml"
     }
 ]
