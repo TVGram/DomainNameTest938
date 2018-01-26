@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/home/pc7/DomainNameCheckApp/DomainNameTest/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "/home/pc7/.android/build-cache/d01c6cb83ab19c4b88819b654125a934253019d8/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 287,
+                        "endColumn": 45,
+                        "endOffset": 328
+                    }
+                }
+            }
+        ]
+    }
+]
